@@ -1,0 +1,1 @@
+This repo is a go implementation of the wc command line utility. This is work in progress. 
